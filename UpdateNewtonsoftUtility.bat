@@ -1,4 +1,3 @@
-set newtonsoftUtilityPath="C:\Users\ConnorLynch\source\repos\Document E-Signing\ESign.Utility\bin\Debug"
 set newtonsoftUtilityPath=%1
 set utilityPath=%newtonsoftUtilityPath%\Newtonsoft.Json.dll
 echo %utilityPath%

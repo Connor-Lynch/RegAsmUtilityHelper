@@ -1,4 +1,3 @@
-set esignUtilityPath="C:\Users\ConnorLynch\source\repos\Document E-Signing\ESign.Utility\bin\Debug"
 set esignUtilityPath=%1
 set utilityPath=%esignUtilityPath%\ESign.Utility.dll
 echo %utilityPath%
